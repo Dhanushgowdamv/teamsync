@@ -83,22 +83,8 @@ Deploy your app using your preferred method to make it live.
 
 ---
 
-## 📚 Comprehensive Guide  
 
-**🚀 Deepen Your Understanding!**  
-We’ve developed an all-encompassing guide for this project that explains:  
 
-- The architecture and design principles behind TeamSync  
-- Step-by-step breakdowns of each feature  
-- Advanced techniques for implementing seeding, Mongoose transactions, and performance optimizations  
-- Insights into multi-tenancy and role-based permission models  
-- Best practices for building scalable SaaS applications  
-
-This guide ensures you gain a thorough understanding of every concept and feature in TeamSync, empowering you to build similar systems or expand upon this project.  
-
-**💡 Ready to learn more?** Check out the full guide now—**[link in the description!](#)**  
-
----
 
 
 
