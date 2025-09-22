@@ -73,16 +73,6 @@ Access the backend at `http://localhost:8000`.
 
 ---
 
-## 🌐 Deploying TeamSync  
-
-### 1. Add Environment Variables  
-Add the `.env` variables to your hosting platform (e.g., Vercel).  
-
-### 2. Deploy  
-Deploy your app using your preferred method to make it live.  
-
----
-
 
 
 
